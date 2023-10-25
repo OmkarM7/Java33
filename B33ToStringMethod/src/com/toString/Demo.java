@@ -12,4 +12,4 @@ public class Demo {
 		}
 }
 
-      // Hashcode is 'alphanumeric number'
+      // Hashcode is 'alphanumeric number as we can see above'
